@@ -1,6 +1,6 @@
 # Hey👋, I'm Kuandyk
 
-- Aspiring **Software Engineer**, currently training at **Sparta Coding Bootcamp**
+- Aspiring **Software Engineer**
 
 ---
 
