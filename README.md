@@ -1,6 +1,6 @@
 # Hey👋, I'm Kuandyk
 
-- Aspiring **Software Engineer**
+- **Software Engineer**
 
 ---
 
